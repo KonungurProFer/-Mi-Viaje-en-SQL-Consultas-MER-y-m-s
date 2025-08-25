@@ -59,5 +59,8 @@ JOIN Pedido_Producto pp ON p.id_pedido = pp.id_pedido
 JOIN Producto pr ON pp.id_producto = pr.id_producto;
 
 ```
+---
 ##🗂️ GRÁFICO (MER)
 <img width="800" height="420" alt="image" src="https://github.com/user-attachments/assets/ac12ddc7-ae12-4a1a-a3cd-a80fc28a0f40" />
+---
+
